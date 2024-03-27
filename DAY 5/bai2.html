@@ -4,101 +4,128 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài 2</title>
+    <style>
+    .column {  float: left;  width: 33.33%;  padding: 15px;}
+    .row:after {  content: "";  display: table;  clear: both;}
+    @media screen and (max-width:600px) {    .column {    width: 100%;  }}
+    </style>
 </head>
 <body>
-    <table width = "100%">
-        <td>
-            <table>
-                <tr>
-                    <p style="font-size:40px; color: rgb(23, 209, 42);"><b>Dân trí</b></p>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table style="width: 100%;">
-                <tr style="text-align: right;">
-                    <td>
-                        <form action="/search" method="GET">
-                            <input type="text" name="search" placeholder="Tìm kiếm...">
-                        </form>
-                    </td>
-                </tr>  
-            </table>
-        </td>  
+    <td>
         <tr>
-            <td colspan="3">
-                <p style="background-color: rgb(6, 124, 51);">
-                    <img src="img/home.jpg" alt="" width="30px">
-                    <a href="" style="color: white;">Video</a> --
-                    <a href="" style="color: white;">Sự kiện</a> --
-                    <a href="" style="color: white;">Xã hội</a> --
-                    <a href="" style="color: white;">Thế giới</a> --
-                    <a href="" style="color: white;">Kinh doanh</a> --
-                    <a href="" style="color: white;">Bất động sản</a> --
-                    <a href="" style="color: white;">Việc làm</a> --
-                    <a href="" style="color: white;">Nhân ái</a> --
-                    <a href="" style="color: white;">Sức khoẻ</a> --
-                    <a href="" style="color: white;">Văn hoá</a> --
-                    <a href="" style="color: white;">Giải trí</a> --
-                    <a href="" style="color: white;">Xe ++</a> --
-                    <a href="" style="color: white;">Sức mạnh số</a> --
-                    <a href="" style="color: white;">Giáo dục</a> --
-                    <a href="" style="color: white;">An ninh</a> --
-                    <a href="" style="color: white;">Pháp luật</a> 
-                </p>
-            </td>
-            <tr>
-                <td colspan="3" width = 30%>
-                    <img src="img2/anh-1.png" alt="" width="100%" height="200px">
+            <table width = "100%">
+                <td>
+                    <table>
+                        <tr>
+                            <p style="font-size:30px; color: rgb(23, 209, 42);"><b>Dân trí</b></p>
+                        </tr>
+                    </table>
                 </td>
-            </tr>
-        </tr>
-        <td width="40%" >
-            <table>
-                <tr>
-                    <img src="img2/anh-2.png" alt="" width="600px" height="600px">
-                </tr>
-                <tr>
-                    <td style="font-size: large;height:max-content;" >
-                        <b>Indonesia đang trong "kịch bản tồi tệ nhất", nguy cơ trở thành Ấn Độ thứ hai</b>
-                        <p>
-                            (Dân trí) - Indonesia thừa nhận đang ở trong "kịch bản tồi tệ nhất" khi số ca nhiễm  và tử vong vì Covid-19 tăng vọt do biến thể Delta
-                        </p>
-                        <p><b>Gần 1.000 người chết vì Covid trong ngày tại Indonesia</b></p>
-                        <p><b>Lý do khiến Indonesia thành ổ dịch Covid-19 lớn nhất Đông Nam Á</b></p>
-                        <p><b>Bi kịch khiến bệnh nhân Covid-19 Indonesia lìa đời tại nhà giữa "cơn khát" oxy</b></p>
-                    </td>
-                </tr>
-
+                <td>
+                    <table style="width: 100%;">
+                        <tr style="text-align: right;">
+                            <td>
+                                <form action="/search" method="GET">
+                                    <input type="text" name="search" placeholder="Tìm kiếm...">
+                                </form>
+                            </td>
+                        </tr>  
+                    </table>
+                </td> 
             </table>
-        </td>
+            <table> 
+                <tr>
+                    <td colspan="3">
+                        <p style="background-color: rgb(6, 124, 51);">
+                            <a href="" style="color: white;">Video</a> --
+                            <a href="" style="color: white;">Sự kiện</a> --
+                            <a href="" style="color: white;">Xã hội</a> --
+                            <a href="" style="color: white;">Thế giới</a> --
+                            <a href="" style="color: white;">Kinh doanh</a> --
+                            <a href="" style="color: white;">Bất động sản</a> --
+                            <a href="" style="color: white;">Việc làm</a> --
+                            <a href="" style="color: white;">Nhân ái</a> --
+                            <a href="" style="color: white;">Sức khoẻ</a> --
+                            <a href="" style="color: white;">Văn hoá</a> --
+                            <a href="" style="color: white;">Giải trí</a> --
+                            <a href="" style="color: white;">Xe ++</a> --
+                            <a href="" style="color: white;">Sức mạnh số</a> --
+                            <a href="" style="color: white;">Giáo dục</a> --
+                            <a href="" style="color: white;">An ninh</a> --
+                            <a href="" style="color: white;">Pháp luật</a> 
+                        </p>
+                    </td>
+                    <tr>
+                        <td colspan="3" width = 30%>
+                            <img src="img2/anh-1.png" alt="" width="100%" height="150px">
+                        </td>
+                    </tr>
+                </tr>
+            </table>
+        </tr>
+    </td>
 
-        <td width="20%">
-        <b>
-            <p style="font-size: larger;color: blue;">Tin tức sự kiện</p>
-            <p>Thủ tướng triệu tâp họp với 27 tỉnh,thành đang "nóng" dịch Covid-19</p>  
-            <p>Nghị quyết 68/NQ-CP: Ngoài khoản hỗ trợ còn là sự động viên, chia sẻ</p>
-            <p>Hàng trăm người chờ mua, hàng hóa ở TPHCM "rất căng thẳng" vì có tin đồn</p>
-            <p>9 nhân sự Trung ương giới thiệu không trúng cử đại biểu Quốc hội</p>
-            <p>TPHCM phân công lại nhiệm vụ của Phó Chủ tịch Võ Văn Hoan</p>
-            <p>Hơn 921.000 liều vắc xin AstraZeneca vừa "hạ cánh" xuống Tân Sơn Nhất</p>
-            <p>Mỹ lo sốt vó khi "quái vật" Covid-19 bùng phát trở lại</p>
-            <p>Lộ trình lựa chọn, thí điểm sáp nhập các tỉnh như thế nào?</p>
-            <p>Hà Nội: Ghi nhận liên tiếp 7 ca dương tính SARS-CoV-2 trong buổi sáng</p>
-            <p>Động thái đáng ngờ từ 2 cận vệ hàng đầu của Tổng thống Haiti bị ám sáto</p>
-        </b>
-        </td>
-
-        <td width="5%">
-            <img src="img2/anh-9.png" alt="" width="300px" height="200px">
-            <img src="img2/anh-8.png" alt="" width="300px" height="200px">
-            <img src="img2/anh-7.png" alt="" width="300px" height="200px">
-            <img src="img2/anh-6.png" alt="" width="300px" height="200px">
-        </td>
-    </table>
-    <img src="img2/anh-3.png" alt="" width="380px" height="200px">
-    <img src="img2/anh-4.png" alt="" width="380px" height="200px">
-    <img src="img2/anh-5.png" alt="" width="380px" height="200px">
-
+    <div class="row">
+        <div class="column">
+            <td>
+                <table style="width: 30%;">
+                    <td>
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="img2/anh-2.png" alt="" style="width:510px;">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="font-size: large;" >
+                                    <b style="font-size:30px;">Indonesia đang trong "kịch bản tồi tệ nhất", nguy cơ trở thành Ấn Độ thứ hai</b>
+                                    <p style="font-size:15px;">
+                                        (Dân trí) - Indonesia thừa nhận đang ở trong "kịch bản tồi tệ nhất" khi số ca nhiễm  và tử vong vì Covid-19 tăng vọt do biến thể Delta
+                                    </p>
+                                    <p><b>Gần 1.000 người chết vì Covid trong ngày tại Indonesia</b></p>
+                                    <p><b>Lý do khiến Indonesia thành ổ dịch Covid-19 lớn nhất Đông Nam Á</b></p>
+                                    <p><b>Bi kịch khiến bệnh nhân Covid-19 Indonesia lìa đời tại nhà giữa "cơn khát" oxy</b></p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </table>
+            </td>
+        </div>
+        <div class="column">
+            <td>
+                <table style="width: 60%;">
+                    <td>
+                        <b>
+                            <p style="font-size:30px;color: blue;">Tin tức sự kiện</p>
+                            <p>Thủ tướng triệu tâp họp với 27 tỉnh,thành đang "nóng" dịch Covid-19</p>  
+                            <p>Nghị quyết 68/NQ-CP: Ngoài khoản hỗ trợ còn là sự động viên, chia sẻ</p>
+                            <p>Hàng trăm người chờ mua, hàng hóa ở TPHCM "rất căng thẳng" vì có tin đồn</p>
+                            <p>9 nhân sự Trung ương giới thiệu không trúng cử đại biểu Quốc hội</p>
+                            <p>TPHCM phân công lại nhiệm vụ của Phó Chủ tịch Võ Văn Hoan</p>
+                            <p>Hơn 921.000 liều vắc xin AstraZeneca vừa "hạ cánh" xuống Tân Sơn Nhất</p>
+                            <p>Mỹ lo sốt vó khi "quái vật" Covid-19 bùng phát trở lại</p>
+                            <p>Lộ trình lựa chọn, thí điểm sáp nhập các tỉnh như thế nào?</p>
+                            <p>Hà Nội: Ghi nhận liên tiếp 7 ca dương tính SARS-CoV-2 trong buổi sáng</p>
+                            <p>Động thái đáng ngờ từ 2 cận vệ hàng đầu của Tổng thống Haiti bị ám sáto</p>
+                        </b>
+                    </td>
+                </table>
+            </td>
+        </div>
+            <td>
+                <table style="width:20%;">
+                    <th>
+                        <img src="img2/anh-9.png" alt="" width="370px" height="180px">
+                        <img src="img2/anh-8.png" alt="" width="370px" height="230px">
+                        <img src="img2/anh-7.png" alt="" width="370px" height="200px">
+                        <img src="img2/anh-6.png" alt="" width="370px" height="200px">
+                    </th>
+                </table>
+            </td>
+    </div>
+        <img src="img2/anh-3.png" alt="" width="350px" height="200px">
+        <img src="img2/anh-4.png" alt="" width="350px" height="200px">
+        <img src="img2/anh-5.png" alt="" width="350px" height="200px">
 </body>
 </html>
