@@ -8,13 +8,15 @@
 <body>
     <script>
         let arr = [1,6,3,77,77,598,945,735,6];
+        // Hàm sắp xếp theo thứ tự tăng dần
         function sapxep(a,b) {
             return a - b ;
         }
+        alert(arr.sort(sapxep));
+        // Hàm loại bỏ các phần tử trùng nhau, sao cho mỗi phần tử chỉ xuất hiện 1 lần
         function loaibo(arr) {
             return Array.from(new Set(arr)) ;
         }
-        alert(arr.sort(sapxep));
         alert(loaibo(arr));
     </script>
 </body>
