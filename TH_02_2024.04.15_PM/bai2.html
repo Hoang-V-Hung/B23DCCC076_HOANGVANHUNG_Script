@@ -10,6 +10,8 @@
         let arr = [1,13,534,0,34,745,999,10];
         // Hàm tìm số nguyên lớn nhất trong mảng
         arr.sort(function(a, b){return b-a});
+        document.write('Số nguyên lớn nhất trong mảng là : ',arr[0],'<br>');
+
         // Hàm tìm các số chính phương trong mảng
         function kiemTraSo(num) {
             return Math.sqrt(num) % 1 === 0; 
@@ -17,6 +19,8 @@
         function socp(arr) {
             return arr.filter(num => kiemTraSo(num));  
         }
+        document.write('Các số chính phương trong mảng là : ',socp(arr),'<br>');
+
         // Hàm tìm các số lớn hơn trung bình cộng của mảng
         function soLonHonTrungBinh(arr) {
                 let tong = 0;
@@ -27,6 +31,8 @@
             let result = arr.filter(num => num > tbc);
             return result;
         }
+        document.write('Số lớn hơn trung bình cộng của mảng là : ',soLonHonTrungBinh(arr),'<br>');
+
         // Hàm tính trung bình cộng của các số không âm của mảng
         function tbckhongam(arr){
             let tong_1 = 0;
@@ -34,17 +40,13 @@
             for (let i = 0; i <= arr.length; i++) {
                 if (arr[i]>=0){
                     tong_1 += arr[i];
-                    soptkhongam++
+                    soptkhongam++;
                 }
             }
             let tbc_1 = tong_1 / soptkhongam;
             return tbc_1;
         }        
-        document.write('Các số chính phương trong mảng là : ',socp(arr),'<br>');
-        document.write('Số lớn hơn trung bình cộng của mảng là : ',soLonHonTrungBinh(arr),'<br>');
-        document.write('Trung bình cộng của các số không âm của mảng là : ',tbckhongam(arr),'<br>');
-        document.write('Số nguyên lớn nhất trong mảng là : ',arr[0]);
-
+        document.write('Trung bình cộng của các số không âm của mảng là : ',tbckhongam(arr));
     </script>
 </body>
 </html>
