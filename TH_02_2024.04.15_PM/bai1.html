@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bai1</title>
+</head>
+<body>
+    <script>
+        let arr = [1,6,3,77,77,598,945,735,6];
+        function sapxep(a,b) {
+            return a - b ;
+        }
+        function loaibo(arr) {
+            return Array.from(new Set(arr)) ;
+        }
+        alert(arr.sort(sapxep));
+        alert(loaibo(arr));
+    </script>
+</body>
+</html>
