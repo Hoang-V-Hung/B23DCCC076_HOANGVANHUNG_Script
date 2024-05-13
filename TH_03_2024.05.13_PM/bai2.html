@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bài 2</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+
+    <div id="content">
+        <h1>List Item</h1>
+        <h2>Iphone 11</h2>
+        <h2>Iphone 12</h2>
+        <h2>Iphone 13</h2>
+    </div>
+    <input type="text" id="new" placeholder="New Item">
+    <button type="button">Add</button>
+
+<script>
+$(document).ready(function(){
+    $(':button').click(function(){
+        var newitem = $('#new').val().trim();
+        if (newitem !==''){
+            $('#content').append('<h2>' + newitem + '</h2>');
+            $('#new').val('')
+        };
+    });
+});
+</script>
+</body>
+</html>
