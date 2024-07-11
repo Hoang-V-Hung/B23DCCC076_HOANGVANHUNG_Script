@@ -13,7 +13,7 @@ var list_products = [
             "describe": "Khi nhà vua của Vương Quốc Mặt Trời quyết định truyền ngôi cho hoàng tử Bình Minh, mọi thứ bắt đầu trở nên rối ren. Sự phản đối của hoàng hậu, sự lựa chọn bất ngờ của Bình Minh, và cuộc hành trình của anh ta và con trai trên đảo hoang sẽ làm bạn và gia đình bạn đầy kịch tính và sâu sắc! Đến với vở kịch Hành Trình Trên Đảo Hoang, bạn sẽ được chứng kiến những thách thức, những tình bạn đáng quý, và những bài học ý nghĩa về sự đồng cảm, sự tự lập và tình yêu gia đình.Một trải nghiệm giải trí đầy màu sắc và ý nghĩa dành cho phụ huynh và các em nhỏ."
         },
         "ma": "Sam0"
-    }, 
+    },
     //14
     {
         "name": "KỊCH THIẾU NHI | SKNT TRƯƠNG HÙNG MINH: TRUYỆN THẦN TIÊN 2 MỄ CỐC PHIÊU LƯU KÝ",
@@ -28,9 +28,9 @@ var list_products = [
             "describe": "Đến hẹn lại lên, chương trình Ngày Xửa Ngày Xưa đã trở lại với các Khán Giả thân thương của Nhà Hát Kịch IDECAFChúng ta sẽ cùng gặp lại chàng thuyền trưởng tài ba tốt bụng Sinbad và thủy thủ đoàn Sin Bắp - Sin Máy - Sin Bếp.Cùng nhau khám phá nhiều vùng đất mới hơn nữa."
         },
         "ma": "Xia0"
-    },  
+    },
     //10
-    
+
     {
         "name": "[HCM] TRUNG QUÂN 1689 More than 1589",
         "company": "Mobiistar",
@@ -45,9 +45,9 @@ var list_products = [
             "describe": "Với sự tham gia của nhiều khách mời nổi tiếng hiện nay.Ha Tran: Thien Ha Tinh Khoi hứa hẹn sẽ đem đến cho khán giả những trải nghiệm đáng nhớ nhất  "
         },
         "ma": "Opp0"
-    },  
+    },
     //13
-    
+
     {
         "name": "HARMONY SHOW | TÌNH EM LÀ ĐẠI DƯƠNG - DUY MẠNH LƯƠNG BÍCH HỮU",
         "company": "Mobiistar",
@@ -62,9 +62,9 @@ var list_products = [
             "describe": "Tháng sáu, tháng của những tiếng ve khắc khoải, của nhành bằng lăng tím, của những con mưa mùa hè hối hả chợt đến, chợt đi như những tháng năm tuổi trẻ chẳng thể kéo dài mãi. Trong không gian đầy cảm xúc ấy, Harmony Show xin hân hạnh mang đến Quý đại lý và khán thính giả chương trình minishow Tình em là đại dương với sự góp mặt của ca sỹ Duy Mạnh và Lương Bích Hữu. Một minishow được hứa hẹn mang lại một bữa tiệc âm nhạc lắng đọng và chữa lành tâm hồn giữa không gian mát mẻ và thanh khiết giữa rừng thông cổ thụ của Harmony Hill Tuần Châu."
         },
         "ma": "Nok0"
-    }, 
+    },
     //?1
-    
+
     {
         "name": "2024 SUPER JUNIOR SUPER SHOW SPIN OFF: Halftime in Hồ Chí Minh",
         "img": "https://ticketbox.vn/_next/image?url=https%3A%2F%2Fimages.tkbcdn.com%2F2%2F360%2F479%2Fts%2Fds%2F02%2F54%2Fee%2Fe1ccc8e250f72215d2da5de1a29b2f65.png&w=1920&q=75",
@@ -78,9 +78,9 @@ var list_products = [
             "describe": "iME Việt Nam đã sẵn sàng cùng SUPER JUNIOR mang đến cho các bạn V-E.L.F. một đêm diễn bùng nổ với những tiết mục đặc biệt và khó quên E.L.F. Việt Nam ơi!! Các bạn đã sẵn sàng để cháy hết mình cùng các chàng trai của chúng ta chưa?? "
         },
         "ma": "Sam1"
-    },   
+    },
     //?2
-    
+
     {
         "name": "LULULOLA SHOW VŨ CÁT TƯỜNG - NGƯỜI BÌNH THƯỜNG",
         "img": "https://ticketbox.vn/_next/image?url=https%3A%2F%2Fimages.tkbcdn.com%2F2%2F360%2F479%2Fts%2Fds%2F4f%2F39%2F1d%2Fe7bda139e8b865792a9bdd33b412866d.jpg&w=1920&q=75",
@@ -94,10 +94,10 @@ var list_products = [
             "describe": "iME Việt Nam đã sẵn sàng cùng SUPER JUNIOR mang đến cho các bạn V-E.L.F. một đêm diễn bùng nổ với những tiết mục đặc biệt và khó quên E.L.F. Việt Nam ơi!! Các bạn đã sẵn sàng để cháy hết mình cùng các chàng trai của chúng ta chưa?? "
         },
         "ma": "App0"
-    },   
-    
+    },
+
     //8
-    
+
     {
         "name": "SÂN KHẤU BAN MAI: KỊCH THIẾU NHI COLORA XỨ SỞ RỰC RỠ",
         "img": "https://ticketbox.vn/_next/image?url=https%3A%2F%2Fimages.tkbcdn.com%2F2%2F360%2F479%2Fts%2Fds%2Fc9%2Feb%2Ffa%2F7d4786a95bf7088f1c294614cf997d75.png&w=3840&q=75",
@@ -111,7 +111,7 @@ var list_products = [
             "describe": "Colora - Xứ Sở Rực Rỡ: Chuyến phiêu lưu cùng tình yêu thương, lòng dũng cảm và môi trường xanh. Lạc vào Khu rừng 5.0 kỳ diệu Colora, nơi công nghệ hòa quyện cùng thiên nhiên, bé sẽ gặp gỡ chim mẹ Hoàng Yến, chim con Hoàng Hậu và các người bạn rừng xanh đáng yêu. Những giai điệu du dương và hình ảnh rực rỡ sẽ dẫn dắt bé qua câu chuyện về sự lo lắng, che chở của chim mẹ dành cho con từng bước, cùng những mâu thuẫn và hiểu lầm xuất phát từ khát khao tự do của chim con.Liệu sự kiện nào sẽ diễn ra sau đó? Chim mẹ - Hoàng Yến có hiểu cho nỗi lòng của chim con - Hoàng Hậu? Hoàng Hậu có nhận ra tình yêu thương vô bờ bến của mẹ Hoàng Yến dành cho mình ? Bé sẽ hồi hộp theo dõi những mâu thuẫn, hiểu lầm giữa hai mẹ con, cùng cảm nhận sức mạnh của tình yêu thương và tầm quan trọng của gia đình.Colora - Xứ Sở Rực Rỡ không chỉ là câu chuyện về tình yêu thương và lòng dũng cảm mà còn là lời kêu gọi các bạn nhỏ chung tay bảo vệ môi trường sống của chính mình. Hãy cùng giữ gìn Khu rừng 5.0 xanh mát, rực rỡ như trong vở kịch bằng cách thu gom rác thải nhựa đến với Ban Mai hoặc biến chúng thành những bộ trang phục ấn tượng để đến thưởng thức vở kịch Colora.Cùng Colora - Xứ Sở Rực Rỡ khơi nguồn cảm hứng, gieo mầm yêu thương và chung tay bảo vệ môi trường!"
         },
         "ma": "Opp1"
-    },   
+    },
     //14
     {
         "name": "Giải đấu VALORANT Challengers 2024 Vietnam",
@@ -127,7 +127,7 @@ var list_products = [
             "describe": "Valorant Challengers 2024 (VCL): Việt Nam, là một giải đấu khu vực được tổ chức bởi Riot Games cho bộ môn thể thao điện tử Valorant. Giải đấu Challengers khu vực Việt Nam là 1 giải đấu trong chuỗi giải đấu Challengers năm 2024, diễn ra tại Việt Nam. Đây là giải đấu dành cho các đội tuyển đến từ Việt Nam, nhằm tìm kiếm nhà vô địch Giai đoạn 2 nhận suất tham gia thi đấu Giải đấu Thăng hạng (Ascension) của khu vực Thái Bình Dương. VCL Việt Nam mùa giải 2024 được chia thành 2 giai đoạn là Giai đoạn 1 và Giai đoạn 2."
         },
         "ma": "Sam2"
-    },  
+    },
     //7
     {
         "name": "[BẾN THÀNH] Đêm nhạc Văn Mai Hương Hoàng Dũng",
@@ -142,28 +142,28 @@ var list_products = [
             "describe": "Với sự xuất hiện của 2 nghệ sĩ nổi tiếng,đêm nhạc hứa hẹn sẽ đưa người xem đến với các tâm trạng cảm xúc khác nhau.Hãy cùng đón chờ nhé !"
         },
         "ma": "App1"
-    },   
+    },
     //13
-    
+
     {
-        "name": "SẠP SHOW",
+        "name": "[HBSO] A NIGHT OF BEETHOVEN & RACHMAININOV",
         "company": "Samsung",
-        "img": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/432717299_971101694584596_254480215247349927_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=C5NBkrs5fZQQ7kNvgE189BY&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDzNj_Xm0mrpvWKmhq3OwBztLQy191tjHsQ3pibrz0BPg&oe=666A35F2",
+        "img": "https://salt.tkbcdn.com/ts/ds/d3/29/b0/c0def97dff9cc4d1f1c39b9e139f9975.jpg",
         "promo": {
             "name": "tragop",
             "value": "0"
         },
         "detail": {
-            "time": "16:30 - 22:00, 11 Aug 2024",
-            "place": "Trung Tâm Văn Hoá Quận 5, 105 Trần Hưng Đạo, P.6, Q.5",
-            "describe": "SẠP SHOW là chương trình âm nhạc thường niên lớn nhất của CLB Guitar Y Dược TP. HCM với tiêu chí mang đến một đêm nhạc chất lượng cùng mức giá phù hợp cho đối tượng là học sinh, sinh viên trên địa bàn thành phố.Thông qua đó, Guitar Y Dược sẽ trích hoàn toàn 100% lợi nhuận từ việc bán vé để gây quỹ cho Chiến dịch “BLOUSE TRẮNG TÌNH NGUYỆN MÙA HÈ XANH” do Đại Học Y Dược TP. HCM tổ chức."
+            "time": "20:00 - 22:00, 13 Jul, 2024",
+            "place": "NHÀ HÁT GIAO HƯỞNG NHẠC VŨ KỊCH TP. HỒ CHÍ MINH. Số 7 Công Trường Lam Sơn, Ben Nghe Ward, 1 District, Ho Chi Minh City",
+            "describe": "Xuôi theo dòng chảy mang đậm giá trị nghệ thuật hàn lâm, HBSO trân trọng kính mời quý khán giả thưởng thức Đêm nhạc Beethoven & Rachmaninov được diễn ra vào lúc 20h00 ngày 13/07/2024 tại Nhà hát Thành phố.Quý khán giả sẽ được chiêm ngưỡng tuyệt tác của hai nhà soạn nhạc thiên tài vĩ đại: Ludwig van Beethoven và Sergei Rachmaninov.Chương trình được dàn dựng và chỉ huy bởi nhạc trưởng NSƯT Trần Vương Thạch,đặc biệt còn có sự tham gia của nghệ sĩ piano quốc tế Nguyễn Bích Trà trở vế từ Anh Quốc."
         },
         "ma": "App2"
-    }, 
-    
+    },
+
     //
     //5
-    
+
     {
         "name": "Automechanika Hồ Chí Minh City",
         "company": "Nokia",
@@ -178,9 +178,9 @@ var list_products = [
             "describe": "Automechanika Ho Chi Minh City không chỉ là hội chợ thương mại mà còn là nơi tổ chức loạt sự kiện như lễ hội, bao gồm Auto NITZ Music Party và Drift & Stunt Show, nhằm mang đến trải nghiệm văn hóa và cộng đồng ô tô sôi động cho mọi người.Năm nay, Auto NITZ Music Party quay trở lại lớn hơn, ấn tượng hơn bao giờ hết! Đội ngũ ca sĩ và ban nhạc sẽ chinh phục khán giả với màn trình diễn tuyệt vời trên sân khấu!"
         },
         "ma": "Xia1"
-    }, 
+    },
     //4
-    
+
     {
         "name": "Nhà Hát Kịch IDECAF: NXNX35 Huyền Thoại Mắt Thần",
         "company": "Realme",
@@ -195,9 +195,9 @@ var list_products = [
             "describe": "Đến hẹn lại lên, chương trình Ngày Xửa Ngày Xưa đã trở lại với các Khán Giả thân thương của Nhà Hát Kịch IDECAFChúng ta sẽ cùng gặp lại chàng thuyền trưởng tài ba tốt bụng Sinbad và thủy thủ đoàn Sin Bắp - Sin Máy - Sin Bếp.Cùng nhau khám phá nhiều vùng đất mới hơn nữa."
         },
         "ma": "Mob0"
-    }, 
+    },
     //3
-    
+
     {
         "name": "Hà Trần: Thiên Hà Tinh Khôi",
         "company": "Vivo",
@@ -212,26 +212,26 @@ var list_products = [
             "describe": "Với sự tham gia của nhiều khách mời nổi tiếng hiện nay.Ha Tran: Thien Ha Tinh Khoi hứa hẹn sẽ đem đến cho khán giả những trải nghiệm đáng nhớ nhất  "
         },
         "ma": "Mob1"
-    },  
+    },
     //2
-    
+
     {
-        "name": "Tuần lễ thời trang quốc tế Việt Nam ",
+        "name": "LULULOLA SHOW PHAN MẠNH QUỲNH | BIẾT ƠN ĐỂ ĐANG Ở LẠI",
         "company": "Apple",
-        "img": "https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/438197799_839552174882655_1057815946094879129_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=R8K1KJT1dOwQ7kNvgGAeMoy&_nc_ht=scontent.fhan5-9.fna&oh=00_AYCvMTyJxOdJ6wWSuUA8O3B6q7HtSv8vTUJNOnsn4_DMmA&oe=666A4B68",
+        "img": "https://salt.tkbcdn.com/ts/ds/57/04/b1/39315e2c790f67ecc938701754816d15.png",
         "promo": {
             "name": "giareonline",
             "value": "3.990.000"
         },
         "detail": {
-            "time": "19:00, 13 Jun, 2024 - 22:00, 16 Jun, 2024",
-            "place": "Nhà Thi Đấu Quân Khu 7 - Military Zone 7 Indoor Sports Complex 202 Hoàng Văn Thụ, Phường 09, Quận Phú Nhuận, Thành Phố Hồ Chí Minh",
-            "describe": "Được sáng lập năm 2014 bởi bà Trang Lê - CEO Công ty MultiMedia JSC, chương trình Tuần Lễ Thời Trang Quốc Tế Việt Nam - Vietnam International Fashion Week được ra đời với mong muốn tạo bệ phóng và cơ hội đưa thời trang Việt Nam được quảng bá tới bạn bè quốc tế, đồng thời đưa xu hướng của thời trang thế giới đến gần hơn với khán giả Việt thông qua việc giới thiệu các Bộ sưu tập (BST) đến từ những tên tuổi NTK tài năng trong nước và quốc tế. Trải qua 16 mùa tổ chức tại thủ đô Hà Nội và Tp Hồ Chí Minh, Aquafina Vietnam International Fashion Week (AVIFW) đã trở thành chiếc cầu nối văn hóa - sự kiện thời trang có quy mô, uy tín và được giới chuyên môn đánh giá là Tuần lễ thời trang lớn nhất khu vực Đông Nam Á, và đứng thứ tư Châu Á.- Năm 2024, Aquafina Vietnam International Fashion Week kỉ niệm cột mốc một thập kỷ (2014-2024), với sự chuyển mình và khởi sắc của thời trang Việt kể từ khi sự kiện được ra đời. Với chủ đề #AdecadeOfFashion, #FashionEvolution, Aquafina Vientam International Fashion Week 2024 hứa hẹn đem đến những show diễn mãn nhãn và các hoạt động thú vị dành cho giới mộ điệu thời trang.Sự kiện không xuất hóa đơn, vé chưa gồm VAT Khách tham dự sự kiện ăn mặc lịch sự, cư xử văn minh, không đem đồ ăn; nước uống bên ngoài vào ghế ngồi; không mang các chất cháy nổ, vũ khí nguy hiểm Sự kiện không dành cho trẻ em nói chung, trừ các trường hợp đặc biệt do BTC quyết định"
+            "time": "17:30 - 19:30, 02 Aug, 2024",
+            "place": "Lululola Coffee Đường 3 / 4, Đồi Cà Ri Dê, 3 Ward, Da Lat City, Lam Dong Province ",
+            "describe": "Lululola Show - Hơn cả âm nhạc, không gian lãng mạn đậm chất thơ Đà Lạt bao trọn hình ảnh thung lũng Đà Lạt, được ngắm nhìn khoảng khắc hoàng hôn thơ mộng đến khi Đà Lạt về đêm siêu lãng mạn, được giao lưu với thần tượng một cách chân thật và gần gũi nhất trong không gian ấm áp và không khí se lạnh của Đà Lạt. Tất cả sẽ  mang đến một đêm nhạc ấn tượng mà bạn không thể quên khi đến với Đà Lạt."
         },
         "ma": "Mob2"
     },
     //1
-    
+
     {
         "name": "Only Friends Fanmeeting in VietNam",
         "img": "https://ticketbox.vn/_next/image?url=https%3A%2F%2Fimages.tkbcdn.com%2F2%2F360%2F479%2Fts%2Fds%2Fc9%2F43%2F49%2F788a8df8aaec5c42a71e74016e3c8dab.png&w=3840&q=75",
@@ -242,7 +242,8 @@ var list_products = [
         "detail": {
             "time": "14:00 - 18:00, 06 Jul, 2024",
             "place": "Nhà hát Hoà Bình 240 Đường 3 Tháng 2, Phường 12, Quận 10, Thành Phố Hồ Chí Minh",
-             "describe" : "FirstKhaotung, ForceBook và NeoMark lên lịch hẹn với chúng ta tại Only Friends Fanmeeting in VietNam vào lúc 14h00 ngày 06.07.2024 tại Nhà hát Hoà Bình, Số 240 Đường 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh.Cùng nhau khám phá và đắm chìm vào những khoảnh khắc diệu kỳ của tình bạn giữa 6 chàng trai nhé!"
+            "describe": "FirstKhaotung, ForceBook và NeoMark lên lịch hẹn với chúng ta tại Only Friends Fanmeeting in VietNam vào lúc 14h00 ngày 06.07.2024 tại Nhà hát Hoà Bình, Số 240 Đường 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh.Cùng nhau khám phá và đắm chìm vào những khoảnh khắc diệu kỳ của tình bạn giữa 6 chàng trai nhé!"
         },
         "ma": "Mob3"
-    }]
+    }
+]
