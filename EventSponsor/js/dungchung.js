@@ -24,7 +24,6 @@ function khoiTao() {
 }
 
 // ========= Các hàm liên quan tới danh sách sản phẩm =========
-// Localstorage cho dssp: 'ListProducts
 function setListProducts(newList) {
     window.localStorage.setItem('ListProducts', JSON.stringify(newList));
 }
